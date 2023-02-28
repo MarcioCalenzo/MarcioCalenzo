@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python, MongoDB, AWS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/LeoGindri](https://github.com/LeoGindri)
+- 👨‍💻 All of my projects are available at [https://github.com/PzLeMoNBR](https://github.com/PzLeMoNBR)
 
 - 💬 Ask me about **Web Development**
 
