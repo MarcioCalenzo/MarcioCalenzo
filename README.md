@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PzLeMoNBR](https://github.com/PzLeMoNBR)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about ** Web Development **
 
 - 📫 How to reach me **marciogabrieloficial@hotmail.com**
 
