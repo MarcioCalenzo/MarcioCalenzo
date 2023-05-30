@@ -25,8 +25,8 @@ align="left">Languages and Tools:</h3>
 <a href="https://www.css3.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://eslint.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="redis" width="40" height="40"/> </a>
-<a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="redis" width="40" height="40"/> </a></p>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="redis" width="40" height="40"/> </a></p>
+<a href="https://yarnpkg.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" alt="redis" width="40" height="40"/> </a>
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="redis" width="40" height="40"/> </a>
 <a href="https://getcomposer.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line-wordmark.svg" alt="redis" width="40" height="40"/> </a></p>
 
 
