@@ -4,7 +4,7 @@
  	
 - 🔭 I am currently looking for a web development job.
 
-- 🌱 I’m currently learning **AWS , .NET**
+- 🌱 I’m currently learning **AWS , .NET and PHP**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PzLeMoNBR](https://github.com/PzLeMoNBR)
 
