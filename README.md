@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm  Marcio Gabriel </h1>
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=PzLeMoNBR&color=red" alt"Profile Views"/> </p>
+    <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=PzLeMoNBR&color=red" alt"Profile Views"/> </p>-->
  	
 - 🔭 I am currently looking for a web development job.
 
