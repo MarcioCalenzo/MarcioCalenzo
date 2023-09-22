@@ -14,8 +14,8 @@
 
 <h3 
 align="left">Languages and Tools:</h3>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/930/119/770/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart.jpg" alt="redis" width="40" height="40"/> </a> </a>
 <p align="left"> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/930/119/770/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart.jpg" alt="redis" width="40" height="40"/> </a> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="redis" width="40" height="40"/> </a> <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>  </a> 
