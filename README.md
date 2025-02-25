@@ -13,7 +13,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/marciocalenzo/](https://www.linkedin.com/in/marciocalenzo/)
 
 <h3 
-align="left">Languages and Tools:</h3>
+align="left">Languages and Tools: </h3>
 <p align="left"> 
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://p1.hiclipart.com/preview/930/119/770/html-logo-html5-email-web-feed-theme-orange-line-circle-png-clipart.jpg" alt="redis" width="40" height="40"/> </a> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/> 
