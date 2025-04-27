@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MarcioCalenzo](https://github.com/MarcioCalenzo)
 
-- 💬 Ask me about ** Web Development **
+- 💬 Ask me about ** Web Development & QA **
 
 - 📫 How to reach me **marciogabrieloficial@hotmail.com**
 
